@@ -27,6 +27,5 @@ https://public.tableau.com/app/profile/aryan.soni1850/viz/Book1_17802043933590/D
 
 ## Files
 
-- Tableau Full Project.xlsx
 - README.md
 - dashboard.png
