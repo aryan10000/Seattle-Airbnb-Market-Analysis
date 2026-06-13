@@ -72,4 +72,5 @@ Built an interactive market analytics dashboard that turns raw Airbnb data into 
 ## Author
 
 Aryan Soni
+
 Data Analytics | SQL | PostgreSQL | Python | Tableau
