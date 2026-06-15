@@ -1,76 +1,114 @@
 # Seattle Airbnb Market Analysis
 
-Market intelligence project analyzing Seattle Airbnb listings to uncover pricing patterns, inventory distribution, revenue potential, and geographic demand using Tableau.
+End-to-end market analytics project leveraging Tableau to analyze Seattle Airbnb listings, uncover pricing trends, evaluate inventory distribution, and identify high-value geographic markets for hosts and property investors.
+
+---
 
 ## Dashboard Preview
 
-<img width="1280" height="797" alt="seattle_airbnb_dashboard" src="https://github.com/user-attachments/assets/99f655d1-94cf-4dd4-b6ea-e3d027fe7b33" />
+<img width="1280" height="769" alt="Seattle Airbnb Dashboard" src="https://github.com/user-attachments/assets/bd07d035-5c73-4ba8-a021-297d13a496c3" />
 
+---
 
 ## Live Dashboard
 
 [View on Tableau Public](https://public.tableau.com/app/profile/aryan.soni1850/viz/Book1_17802043933590/Dashboard1?publish=yes)
 
+---
+
+## Project Objective
+
+The objective of this project is to analyze Seattle Airbnb listings and identify how pricing varies across property types, bedroom counts, and geographic locations.
+
+The dashboard helps stakeholders understand market dynamics, compare neighborhood pricing, and evaluate potential opportunities within Seattle's short-term rental market.
+
+---
+
 ## Key Insights
 
-- Average nightly prices rise steadily with bedroom count, showing a clear premium for larger properties.
-- One-bedroom listings make up the largest share of inventory, indicating strong supply concentration in smaller units.
-- Pricing varies significantly across Seattle zip codes, suggesting location-driven market segmentation.
-- Revenue trends remain relatively stable over the year, with seasonal peaks during high-demand travel periods.
-- Several neighborhoods command premium pricing despite lower listing volume, indicating attractive investment opportunities.
+- Average listing prices increase significantly as bedroom count rises, with 5–6 bedroom properties commanding the highest rates.
+- Entire homes/apartments achieve substantially higher average prices than private or shared rooms.
+- Seattle pricing varies considerably across zip codes, highlighting strong location-based market segmentation.
+- The market contains 2,873 active listings distributed across 27 zip codes.
+- Several zip codes consistently outperform the city average, indicating premium pricing zones.
 
-## Business Problem
+---
 
-Airbnb hosts and property investors need to identify which property types and locations offer the strongest revenue potential.
+## Dashboard Features
 
-This project analyzes Seattle Airbnb data to evaluate pricing behavior, listing concentration, and geographic performance so that hosts can make better pricing and investment decisions.
+### Market Overview
+- Total Listings
+- Average Listing Price
+- Median Listing Price
+- Maximum Listing Price
+- Zip Codes Covered
+
+### Pricing Analysis
+- Average Price by Bedroom Count
+- Average Price by Room Type
+- Price Trend Over Time
+
+### Geographic Analysis
+- Average Price by Zip Code
+- Interactive Zip Code Pricing Map
+
+### Inventory Analysis
+- Listing Distribution by Bedroom Count
+
+---
+
+## Project Workflow
+
+1. Data Collection
+2. Data Cleaning & Preparation
+3. Exploratory Data Analysis
+4. Dashboard Development in Tableau
+5. Interactive Filtering & Visualization
+6. Business Insights Generation
+
+---
 
 ## Dataset
 
-The dataset includes Seattle Airbnb listing information such as:
+The dataset contains Seattle Airbnb listing information including:
 
-- Price
-- Bedroom count
-- Zip code
-- Revenue
-- Availability
-- Geographic location
+- Listing Price
+- Property Type
+- Room Type
+- Bedroom Count
+- Zip Code
+- Availability Information
+- Geographic Location Data
 
-## Dashboard Analysis
-
-### Pricing Analysis
-- Average price by bedroom count
-- Revenue trends over time
-
-### Geographic Analysis
-- Price distribution by zip code
-- Neighborhood-level performance comparison
-
-### Inventory Analysis
-- Listing distribution by bedroom count
-- Market supply patterns
+---
 
 ## Tools & Technologies
 
 - Tableau
-- Excel
+- Microsoft Excel
+
+---
 
 ## Business Value
 
-This dashboard helps stakeholders:
+This dashboard enables stakeholders to:
 
-- Identify profitable listing configurations
-- Compare neighborhood-level pricing
-- Evaluate revenue opportunities
-- Understand local market demand
-- Spot underpriced or high-potential areas
+- Compare pricing across Seattle neighborhoods
+- Identify premium pricing locations
+- Understand inventory distribution patterns
+- Analyze pricing behavior by property size
+- Support short-term rental investment decisions
+
+---
 
 ## Project Outcome
 
-Built an interactive market analytics dashboard that turns raw Airbnb data into actionable pricing and investment insights for Seattle’s short-term rental market.
+Developed an interactive Tableau dashboard that transforms raw Airbnb listing data into actionable market intelligence, helping stakeholders evaluate pricing trends, inventory concentration, and geographic opportunities within Seattle's short-term rental ecosystem.
+
+---
 
 ## Author
 
-Aryan Soni
+**Aryan Soni**
 
 Data Analytics | SQL | PostgreSQL | Python | Tableau
